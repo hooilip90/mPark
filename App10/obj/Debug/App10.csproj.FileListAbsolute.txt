@@ -1,0 +1,142 @@
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\bin\Debug\App.xbf
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\bin\Debug\HubPage.xbf
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\bin\Debug\ItemPage.xbf
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\bin\Debug\SectionPage.xbf
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\bin\Debug\App10.xr.xml
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\bin\Debug\App10.exe
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\bin\Debug\App10.pdb
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\bin\Debug\resources.pri
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\bin\Debug\AppxManifest.xml
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\bin\Debug\App10.build.appxrecipe
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\App.g.i.cs
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\App.g.cs
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\HubPage.g.i.cs
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\HubPage.g.cs
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\ItemPage.g.i.cs
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\ItemPage.g.cs
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\SectionPage.g.i.cs
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\SectionPage.g.cs
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\XamlTypeInfo.g.cs
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\App.xaml
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\HubPage.xaml
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\ItemPage.xaml
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\SectionPage.xaml
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\App.xbf
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\HubPage.xbf
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\ItemPage.xbf
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\SectionPage.xbf
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\XamlSaveStateFile.xml
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\App10.exe
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\App10.pdb
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\priconfig.xml
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\priconfig.xml.intermediate
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\layout.resfiles
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\layout.resfiles.intermediate
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\resources.resfiles
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\resources.resfiles.intermediate
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\pri.resfiles
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\pri.resfiles.intermediate
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\qualifiers.txt
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\qualifiers.txt.intermediate
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\jamestanz\documents\visual studio 2013\Projects\App10\App10\obj\Debug\ProjectArchitectures.txt
+C:\Users\kY2759tJ\Downloads\App10\App10\bin\Debug\App.xbf
+C:\Users\kY2759tJ\Downloads\App10\App10\bin\Debug\HubPage.xbf
+C:\Users\kY2759tJ\Downloads\App10\App10\bin\Debug\ItemPage.xbf
+C:\Users\kY2759tJ\Downloads\App10\App10\bin\Debug\SectionPage.xbf
+C:\Users\kY2759tJ\Downloads\App10\App10\bin\Debug\App10.xr.xml
+C:\Users\kY2759tJ\Downloads\App10\App10\bin\Debug\App10.exe
+C:\Users\kY2759tJ\Downloads\App10\App10\bin\Debug\App10.pdb
+C:\Users\kY2759tJ\Downloads\App10\App10\bin\Debug\resources.pri
+C:\Users\kY2759tJ\Downloads\App10\App10\bin\Debug\AppxManifest.xml
+C:\Users\kY2759tJ\Downloads\App10\App10\bin\Debug\App10.build.appxrecipe
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\App.g.i.cs
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\App.g.cs
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\HubPage.g.i.cs
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\HubPage.g.cs
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\ItemPage.g.i.cs
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\ItemPage.g.cs
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\SectionPage.g.i.cs
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\SectionPage.g.cs
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\App.xaml
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\ItemPage.xaml
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\SectionPage.xaml
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\App.xbf
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\ItemPage.xbf
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\SectionPage.xbf
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\XamlSaveStateFile.xml
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\HubPage.xaml
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\HubPage.xbf
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\App10.exe
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\App10.pdb
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\priconfig.xml
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\priconfig.xml.intermediate
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\layout.resfiles
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\layout.resfiles.intermediate
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\resources.resfiles
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\resources.resfiles.intermediate
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\pri.resfiles
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\pri.resfiles.intermediate
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\qualifiers.txt
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\qualifiers.txt.intermediate
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\kY2759tJ\Downloads\App10\App10\obj\Debug\ProjectArchitectures.txt
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\bin\Debug\App10.exe.config
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\bin\Debug\App.xbf
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\bin\Debug\HubPage.xbf
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\bin\Debug\App10.xr.xml
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\bin\Debug\App10.exe
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\bin\Debug\App10.pdb
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\bin\Debug\resources.pri
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\bin\Debug\AppxManifest.xml
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\bin\Debug\App10.build.appxrecipe
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\App.g.i.cs
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\App.g.cs
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\HubPage.g.i.cs
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\HubPage.g.cs
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\App.xaml
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\HubPage.xaml
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\App.xbf
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\HubPage.xbf
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\App10.exe
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\App10.pdb
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\App10.csproj.GenerateResource.Cache
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\priconfig.xml
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\priconfig.xml.intermediate
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\layout.resfiles
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\layout.resfiles.intermediate
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\resources.resfiles
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\resources.resfiles.intermediate
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\pri.resfiles
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\pri.resfiles.intermediate
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\qualifiers.txt
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\ProjectArchitectures.txt
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\bin\Debug\BuildingPage.xbf
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\bin\Debug\SectionPage.xbf
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\BuildingPage.g.i.cs
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\BuildingPage.g.cs
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\SectionPage.g.i.cs
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\SectionPage.g.cs
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\BuildingPage.xaml
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\SectionPage.xaml
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\BuildingPage.xbf
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\SectionPage.xbf
+C:\Users\Loo Eng Keong\Desktop\swan\App10\App10\obj\Debug\App10.csprojResolveAssemblyReference.cache

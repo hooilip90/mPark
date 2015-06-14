@@ -1,0 +1,120 @@
+﻿<Page
+    x:Class="App10.HubPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App10"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:data="using:App10.Data"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    d:DataContext="{Binding Source={d:DesignData Source=/DataModel/SampleData.json, Type=data:SampleDataSource}}"
+    mc:Ignorable="d">
+
+    <Page.Resources>
+        <DataTemplate x:Key="HubSectionHeaderTemplate">
+            <TextBlock Margin="0,0,0,-9.5" Text="{Binding}"/>
+        </DataTemplate>
+
+        <!-- Grid-appropriate item template as seen in section 2 -->
+        <DataTemplate x:Key="Standard200x180TileItemTemplate">
+            <Grid Margin="0,0,9.5,9.5" Background="{ThemeResource ListViewItemPlaceholderBackgroundThemeBrush}">
+                <Image Source="{Binding ImagePath}" Stretch="UniformToFill" AutomationProperties.Name="{Binding Title}" Height="138.5" Width="138.5"/>
+                <TextBlock Text="{Binding Title}" VerticalAlignment="Bottom" Margin="9.5,0,0,6.5" Style="{ThemeResource BaseTextBlockStyle}"/>
+            </Grid>
+        </DataTemplate>
+
+        <DataTemplate x:Key="StandardTripleLineItemTemplate">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Border Background="{ThemeResource ListViewItemPlaceholderBackgroundThemeBrush}" Margin="0,9.5,0,0" Grid.Column="0" HorizontalAlignment="Left">
+                    <Image Source="{Binding ImagePath}" Stretch="UniformToFill" AutomationProperties.Name="{Binding Title}" Height="79" Width="79"/>
+                </Border>
+                <StackPanel Grid.Column="1" Margin="14.5,0,0,0">
+                    <TextBlock Text="{Binding Title}" Style="{ThemeResource ListViewItemTextBlockStyle}"/>
+                    <TextBlock Text="{Binding Description}" Style="{ThemeResource ListViewItemContentTextBlockStyle}" Foreground="{ThemeResource PhoneMidBrush}" />
+                    <TextBlock Text="{Binding Subtitle}" Style="{ThemeResource ListViewItemSubheaderTextBlockStyle}" />
+                </StackPanel>
+            </Grid>
+        </DataTemplate>
+
+        <DataTemplate x:Key="StandardDoubleLineItemTemplate">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Border Background="{ThemeResource ListViewItemPlaceholderBackgroundThemeBrush}" Margin="0,9.5,0,0" Grid.Column="0" HorizontalAlignment="Left">
+                    <Image Source="{Binding ImagePath}" Stretch="UniformToFill" AutomationProperties.Name="{Binding Title}" Height="79" Width="79"/>
+                </Border>
+                <StackPanel Grid.Column="1" Margin="14.5,0,0,0">
+                    <TextBlock Text="{Binding Title}" Style="{ThemeResource ListViewItemTextBlockStyle}" FontSize="18"/>
+                    <TextBlock Text="{Binding Subtitle}" Style="{ThemeResource ListViewItemSubheaderTextBlockStyle}"/>
+                </StackPanel>
+            </Grid>
+        </DataTemplate>
+    </Page.Resources>
+
+    <Grid>
+        <StackPanel>
+            <Grid Background="Indigo" Height="107">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="13*"/>
+                    <ColumnDefinition Width="7*"/>
+                </Grid.ColumnDefinitions>
+                <Image Source="Assets/mPark.png" Margin="-40,1,25,9" HorizontalAlignment="Center" Width="275" />
+                <TextBox x:Name="URL" Margin="6,123,4,-51" Text="Search place..." Foreground="Gray" VerticalAlignment="Top" BorderBrush="Orange" Background="White" />
+                <Button x:Name="Search"  Content="Search" BorderBrush="Orange" HorizontalAlignment="Right"  Margin="0,113,14,-63" VerticalAlignment="Top" Width="109" Foreground="Orange" Grid.Column="1" />
+                <!--ItemClickEventArgs="ItemView_ItemClick"-->
+            </Grid>
+        </StackPanel>
+
+        <Hub Margin="0,168,0,0" FontSize="14">
+            <HubSection x:Uid="HubSection5" Header="Nearby"
+                        DataContext="{Binding Groups[0]}" HeaderTemplate="{ThemeResource HubSectionHeaderTemplate}" Height="454" Width="390" VerticalAlignment="Center" FontSize="18">
+                <DataTemplate>
+                    <ListView 
+                         x:Name="itemListView"
+            Background= "Black"
+            AutomationProperties.AutomationId="ItemListView"
+            AutomationProperties.Name="Items In Group"
+            TabIndex="1"
+            Grid.Row="1"
+            ItemsSource="{Binding Items}"
+            ItemClick="ItemView_ItemClick"
+            IsItemClickEnabled="True"
+            SelectionMode="None"
+            IsSwipeEnabled="false"
+            Margin="-2,-14,0,4.833" HorizontalAlignment="Left" Padding="12,2,0,5" ScrollViewer.VerticalScrollBarVisibility="Visible" Width="360" >
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <Grid Width="361" Margin="0,-5,0,0" Background="Black">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="80"/>
+                                        <ColumnDefinition Width="299*"/>
+                                    </Grid.ColumnDefinitions>
+
+
+                                    <Border Background="White" Margin="0,8,0,0" Width="79">
+                                        <Image Source="{Binding ImagePath}" Stretch="UniformToFill" HorizontalAlignment="Center" VerticalAlignment="Center" AutomationProperties.Name="{Binding Title}" Width="79" Height="80" Margin="0" RenderTransformOrigin="0.5,0.5" >
+                                            <Image.RenderTransform>
+                                                <CompositeTransform/>
+                                            </Image.RenderTransform>
+                                        </Image>
+                                    </Border>
+                                    <StackPanel Grid.Column="1" VerticalAlignment="Center" Margin="9.833,10,0,0" HorizontalAlignment="Left" Height="78" Width="252">
+                                        <TextBlock Text="{Binding Title}" Style="{ThemeResource ListViewItemTextBlockStyle}" FontSize="22" Foreground="OrangeRed" TextWrapping="WrapWholeWords" FontFamily="Meiryo UI" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0,25,0,0"/>
+                                    </StackPanel>
+                                </Grid>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </DataTemplate>
+            </HubSection>
+        </Hub>
+    </Grid>
+</Page>
